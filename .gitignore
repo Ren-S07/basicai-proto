@@ -1,0 +1,9 @@
+.DS_Store
+slg/.langgraph_api/
+slg/.venv/
+slg/blog_makearticle2/__pycache__/
+slg/blog_makearticle2/src/__pycache__/
+.env
+.python-version
+generate_keyword_ideas.py
+google-ads.yaml
